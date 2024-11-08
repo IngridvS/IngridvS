@@ -1,26 +1,52 @@
-### Olá, eu sou a Ingrid 🙋🏻‍♀️
+<h1 style="text-align: center;"> Olá, eu sou a Ingrid 🙋🏻‍♀️</h1>
 
 Sobre Mim!
 
 - 🖥️ Desenvolvedora Front End
-- ✍️ Aprendendo linguagens de Programação.
+- ✍️ Estudando PHP.
+- ☺️ Pronouns: ela/dela
 
- Informações de Contato:
-
-[![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ingridvit3101@gmail.com)
-[![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-vit%C3%B3ria-santos-30b434206)
+ 
 
 
-![Ingrid  GitHub stats](https://github-readme-stats.vercel.app/api?username=IngridvS&show_icons=true&theme=radical)
+<div>
+ <a href="https://beacons.al/IngridvS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridvS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridvS&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-### Tecnologias
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IngridvS/IngridvS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IngridvS/IngridvS/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IngridvS/IngridvS/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div style="display: inline_block"><br/>
-<img aLign="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img aLign="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aLign="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whi"/>
-<img aLign="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img aLign="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>
 
-Apaixonada por Tecnologia.
+
+<h3 align="center">Tecnologias que já estudei💻</h3>
+
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ingrid-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="ingrid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ingrid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="ingrid-Java" height="40" width="50"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+ <img  align="center" alt="ingrid-PHP" height="40" width="50"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ <img align="center" alt="ingrid-Mysql" height="40" width="50"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
+
+
+
+<h4> Entrar em contato comigo!</h4>
+
+<div> 
+  <a href="https://instagram.com/ingrid1608_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ingridvit3101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ingrid-vit%C3%B3ria-santos-30b434206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
