@@ -8,12 +8,6 @@ Sobre Mim!
 
 
 
-<div>
- <a href="https://beacons.al/IngridvS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridvS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridvS&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IngridvS/IngridvS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IngridvS/IngridvS/output/github-contribution-grid-snake.svg">
